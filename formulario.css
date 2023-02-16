@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    background: linear-gradient(90deg, #91D8E4 20%, #BFEAF5 100%);
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    background-color: #82AAE3;
+    width: 33%;
+    padding: 15%;
+    border-radius: 20px;
+    margin-top: 15%;
+    margin-left: 31%;
+}
+
+h3{
+margin-right: 20px;
+margin-top: 10px;
+}
+
+.nome{
+    margin-bottom: 10px;
+    border-style: groove;
+    height: 30px;
+}
+
+.senha{
+    margin-bottom: 10px;
+    border-style: groove;
+    height: 30px;
+}
+
+.enviar{
+    width: 150px;
+    height: 25px;
+    margin-left: 8px;
+}
+
+.teste{
+    display: block;
+    margin-top:20px ;
+    margin-left: 30px;
+}
+
+.teste button{
+    padding: 5px;
+}
+
+
+
+
+
+/* input{
+    margin-top: 10px;
+
+
+}
+
+div{
+    background: linear-gradient(90deg,  #A1C4E2 10%,#F58EA6 100%);
+    width: 380px;
+    margin-left:422px ;
+    height: 355px;
+    padding: 100px;
+    margin-top: 100px;
+    margin-right: 200px;
+}
+
+form{
+     background-color: darkslateblue; 
+    background-color: white;
+    width: 228px;
+    margin-left: 25px;
+    padding: 50px;
+    height: 224px;
+    border-radius: 8px;
+}
+
+.Nome{
+    height: 27px;
+    width: 211px;
+    border-color:rgb(230, 230, 230);
+    border-style: ridge;
+}
+
+.Senha{
+    height: 27px;
+    width: 211px;
+    border-color: rgb(230, 230, 230);
+    border-style: ridge;
+}
+
+.Relembrar{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.Enviar{
+    width: 220px;
+    height: 32px;
+    background-color: rgb(238, 94, 94);
+    border-color: aliceblue;
+    border-style: unset;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.teste{
+    display: flex;
+    margin-left: 7px; ;
+}
+
+.Clique{
+    width: 94px;
+    height: 36px;
+    margin-top: 40px;
+}
+
+.Clique2{
+    margin-left: 20px;
+    width: 94px;
+    height: 36px;
+    margin-top:40px; 
+} */
+
+
+
+
+
+
+
